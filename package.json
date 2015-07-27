@@ -1,0 +1,44 @@
+{
+    "name": "jquery-antimail",
+    "version": "0.0.1",
+    "description": "jQuery Spam Protect with HTML5 Tags",
+    "keywords": [
+        "jquery-plugin",
+        "jquery",
+        "spamprotect",
+        "plugins"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kainbacher/jquery-antimail.git"
+    },
+    "bugs": {
+        "url": "https://github.com/kainbacher/jquery-antimail/issues"
+    },
+    "author": {
+        "name": "Roland Kainbacher",
+        "email": "roland.kainbacher@gmail.com",
+        "url": "https://github.com/kainbacher"
+    },
+    "homepage": "http://github.com/kainbacher/jquery-antimail/",
+    "contributors": [
+        {
+            "name": "Roland Kainbacher",
+            "email": "roland.kainbacher@gmail.com",
+            "url": "https://github.com/kainbacher"
+        },
+    ],
+    "license": "MIT",
+    "devDependencies": {
+        "grunt": "~0.4.5",
+        "grunt-cli": "~0.1.13",
+        "grunt-contrib-coffee": "^0.12.0",
+        "grunt-contrib-concat": "^0.5.1",
+        "grunt-contrib-jshint": "^0.11.0",
+        "grunt-contrib-uglify": "^0.8.0",
+        "grunt-contrib-watch": "^0.6.1"
+    },
+    "scripts": {
+        "test": "grunt travis --verbose"
+    }
+}

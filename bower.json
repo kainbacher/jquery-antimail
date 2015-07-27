@@ -1,0 +1,17 @@
+{
+    "name": "jquery-antimail",
+    "version": "0.0.1",
+    "homepage": "http://jqueryboilerplate.com",
+    "authors": [
+        "Roland Kainbacher <roland.kainbacher@gmail.com>"
+    ],
+    "description": "jQuery Spam Protect with HTML5 Tags",
+    "main": "src/jquery.antimail.js",
+    "keywords": [
+        "jquery",
+        "plugin",
+        "spamprotect",
+        "jquery-plugin",
+    ],
+    "license": "MIT"
+}
