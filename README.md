@@ -30,9 +30,11 @@ The plugin parses your code for the classes and replace an attribute (or the tag
 
 3. In your Code:
 
+    ```html
     <a href="#" data-antimail-domain="yourdomain" data-antimail-email="yourname">
         <span class="antimail" data-antimail-domain="yourdomain" data-antimail-email="yourname">&nbsp;</span>
     </a>
+    ```
 
 ## Team
 
